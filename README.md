@@ -16,15 +16,15 @@ Solar Dry-Pac is a ₹4,800 solar-powered automatic drying box
 that maintains 38–44°C using Arduino, DHT22 sensor, and relay control.
 It works during rain and cloudy days using battery backup.
 When humidity drops below 35%, the system alerts the artisan
-with a buzzer and green LED — drying is complete.
+with a buzzer and green LED drying is complete.
 
 ---
 
 ## Key Features
 - Automatic temperature control (38–44°C)
 - Humidity-based drying completion detection
-- Works fully offline — no electricity or internet needed
-- Zero literacy alert — buzzer + green LED
+- Works fully offline, no electricity or internet needed
+- Zero literacy alert buzzer + green LED
 - Eco-friendly cellulose film packaging
 - AI-powered mobile app with 10 Indian language support
 - Total cost: ₹4,800
